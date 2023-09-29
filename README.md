@@ -58,6 +58,13 @@ Place our customers' satisfaction and security at the center of our every action
 
 # Offer
 
+## FinOfficer SaaS 
+
+[FinOfficer - Encrypted Finances](https://www.finofficer.com/) is an example of usage the zero-trust framework as SaaS
+
+FinOfficer refers to a financial officer in an organization, such as a chief financial officer (CFO) or financial manager. FinOfficer Saas platform is responsible for financial operations such as financial planning, reporting, analysis. We provide an encrypted secure layer for exchanging transactions, data, contracts, documents, invoices.
+
+
 ## Subscription
 
 ### Trusted Foundation User Subscription
