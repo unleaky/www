@@ -65,10 +65,7 @@ Place our customers' satisfaction and security at the center of our every action
 
 ## Subscription
 
-Certainly, here's a per-user subscription pricing model:
-
-
-**Trusted Foundation User Subscription** 
+### Trusted Foundation User Subscription
 
 Our goal is to ensure a reliable foundation for your project or business. With our "zero-trust framework", we offer a secure network and infrastructure for every user in your organization.
 
