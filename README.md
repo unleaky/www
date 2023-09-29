@@ -54,3 +54,44 @@ Place our customers' satisfaction and security at the center of our every action
 - Premium backup (over 1TB): PLN 1,200/month
 
 
+## Partnership
+
+At Unleaky, we don’t believe in transactional relationships. 
+We believe in forming long-term partnerships with our customers. 
+Our goal is not just to provide immediate solutions but to engage with you on a more profound level to understand your needs and goals completely.
+
+### Cooperation Strategy:
+
+#### Onboarding and Continuous Consultation
+We start our engagement by understanding your current operations state, needs, and growth plans. Our team of experts will consult and guide you throughout the service provisioning process and beyond.
+
+#### Customized Solutions
+Each company is unique. Understanding this, we offer tailored solutions suitable for the specific requirements of your small business. Our team will work with you to identify the right mix of services that would serve your business best.
+
+#### Scalable Support
+As your business grows, so can the support we provide. We'll work along-side you to scale our services as per your growing requirements. Whether it's increased data protection or larger, more complex network operations, we're ready to expand our support.
+
+#### Ongoing Relationship Management
+We believe customer relationships aren't just for problem-solving but also for regular check-ins, feedback discussions and improvements. We believe in proactive communication and regular reviews to make sure your needs are continuously met.
+
+#### Educative Empowerment
+We empower you with the knowledge and resources to understand and navigate digital security risks better. We run webinars and workshops and provide learning resources.
+
+
+
+### Use cases:
+
+#### Outsourcing DevOps
+Say a software development company wants to focus more on its core operations and less on managing infrastructure. 
+Unleaky can be their partner in managing their DevOps pipeline - right from continuous integration, continuous deployment/delivery (CI/CD) to infrastructure monitoring.
+
+#### Outsourcing NetOps
+Consider a small e-commerce business that wants its network operations to run smoothly 24/7 but lacks the expertise in-house. 
+Unleaky can manage the network - ensuring secure and robust connections, managing load balancers, firewalls, routers etc., resulting in minimized downtime.
+
+---
+
+We at Unleaky appreciate the trust our customers put in us. 
+By entrusting us with your Digital Security, DevOps, and NetOps, you can focus on what you do best: running and expanding your business. 
+We'll take care of making sure it's secure and efficient.
+
