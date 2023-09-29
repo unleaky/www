@@ -5,8 +5,8 @@ It can be a reliable foundation on which a project, idea, relationship or busine
 Reliability can come from trustworthiness, transparency, performance history, ...
 
 + we offer the “Trusted Foundation” for your organization and team
-+ our "zero trust framework" is a trusted network and infrastructure
-+ we outsource DevOps and NetOps services
++ "zero trust framework" serve a trusted network and infrastructure
++ we support your team in wide range of DevOps and NetOps services
 
 ### Our "zero-trust framework"
 
