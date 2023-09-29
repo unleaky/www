@@ -10,10 +10,10 @@ Reliability can come from trustworthiness, transparency, performance history, ..
 
 ### Our "zero-trust framework"
 
-+ VeriDock - Exchange mechanism, documentation verification algorithm for contracts, transactions, ...
-+ DocuTempl - ready to use in templates for documentation
-+ DocuTan - Private key hardware & software wallet with encryption and secret TAN passwords
-+ Lockerless - trusted single-use box for encrypted messages
++ [VeriDock](http://www.veridock.com) - Exchange mechanism, documentation verification algorithm for contracts, transactions, ...
++ [DocuTemp](http://www.DocuTemp.com) - ready to use in templates for documentation
++ [DocuTan](http://www.DocuTan.com) - Private key hardware & software wallet with encryption and secret TAN passwords
++ [Lockerless](http://www.Lockerless.com) - trusted single-use box for encrypted messages
 
 
 Here's an example of a Mermaid diagram for the processes in "zero-trust framework":
