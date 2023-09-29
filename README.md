@@ -16,7 +16,7 @@ The reliability can come from its credibility, transparency, performance history
 
 + VeriDock - Exchange mechanism, documentation verification algorithm for contracts, transactions, ...
 + DocuTempl - ready to use in templates for documentation
-+ DocuTan - Private key wallet with encryption and secret TAN passwords
++ DocuTan - Private key hardware & software wallet with encryption and secret TAN passwords
 + Lockerless - trusted single-use box for encrypted messages
 
 
