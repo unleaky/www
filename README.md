@@ -20,6 +20,25 @@ The reliability can come from its credibility, transparency, performance history
 + Lockerless - trusted single-use box for encrypted messages
 
 
+Here's an example of a Mermaid diagram for the processes in "zero-trust framework":
+
+```mermaid
+graph LR
+    A(Zero-Trust Framework) --> B(VeriDock)
+    A --> C(DocuTempl)
+    A --> D(DocuTan)
+    A --> E(Lockerless)
+    B -- Exchange Mechanism, Documentation Verification--> B1((Contracts, Transactions...))
+    C -- Ready to use Templates--> C1((Documentation))
+    D -- Hardware & Software Wallet--> D1((Private Key))
+    D -- Encryption-->D2((Secret TAN passwords))
+    E -- Trusted Single-Use Box--> E1((Encrypted Messages))
+```
+
+This should create a diagram showing that your Zero-Trust Framework includes and is linked to VeriDock, DocuTempl, DocuTan, and Lockerless, with an explanation of what each of these components does. 
+
+Remember, you need to render this script in a Mermaid-compatible viewer to see the actual diagram because formatted text editors like this lack Mermaid rendering capabilities.
+
 
 ## Vision: 
 + To establish Unleaky as a synonym for trust and security in the digital world, transforming businesses into leak-proof entities and fostering a safer and more secure digital ecosystem globally.
