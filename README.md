@@ -22,18 +22,8 @@ The reliability can come from its credibility, transparency, performance history
 
 Here's an example of a Mermaid diagram for the processes in "zero-trust framework":
 
-```mermaid
-graph LR
-    A(Zero-Trust Framework) --> B(VeriDock)
-    A --> C(DocuTempl)
-    A --> D(DocuTan)
-    A --> E(Lockerless)
-    B -- Exchange Mechanism, Documentation Verification--> B1((Contracts, Transactions...))
-    C -- Ready to use Templates--> C1((Documentation))
-    D -- Hardware & Software Wallet--> D1((Private Key))
-    D -- Encryption-->D2((Secret TAN passwords))
-    E -- Trusted Single-Use Box--> E1((Encrypted Messages))
-```
+[![](https://mermaid.ink/img/pako:eNpVUcFqwzAM_RXhw0ghKWzHHAZtkzFYO0bbbTByEYmahiZ2kJ21ofTfp3jpIT7J7-k9PctXlZuCVKxKxvYI622mQc4i-CE20Z476-CFsaGz4dMMougZlsEXcZWY_DQbmz28CgTq9tS09QRP_nHUEzQN1mJAXJO1I7EUAtJLfkRdEmxoKCrbhDDoG9IOXWU0DMMPVe4vPs5jEKyMdoy5syHsGbWVUlg7n89no_lqMN8SFj04A50l8EnRkfXhxWQy5q5LBt0rcnFGJniAnTk4X35jXZPzDxTtB1e_4gVv1E-Uqc65b8eoyVMQ7ChncrBfvEOL1spWC3tXpIPCr5wK2FW6rCn6lKRLc_Erkzmjn_AbWRyWJGIVqoa4waqQb7wOVplyR2ooU7GUBfIpU5m-SR92zux6navYcUeh6tpCUicVyu83Kj5gben2B1RepkM?type=png)](https://mermaid.live/edit#pako:eNpVUcFqwzAM_RXhw0ghKWzHHAZtkzFYO0bbbTByEYmahiZ2kJ21ofTfp3jpIT7J7-k9PctXlZuCVKxKxvYI622mQc4i-CE20Z476-CFsaGz4dMMougZlsEXcZWY_DQbmz28CgTq9tS09QRP_nHUEzQN1mJAXJO1I7EUAtJLfkRdEmxoKCrbhDDoG9IOXWU0DMMPVe4vPs5jEKyMdoy5syHsGbWVUlg7n89no_lqMN8SFj04A50l8EnRkfXhxWQy5q5LBt0rcnFGJniAnTk4X35jXZPzDxTtB1e_4gVv1E-Uqc65b8eoyVMQ7ChncrBfvEOL1spWC3tXpIPCr5wK2FW6rCn6lKRLc_Erkzmjn_AbWRyWJGIVqoa4waqQb7wOVplyR2ooU7GUBfIpU5m-SR92zux6navYcUeh6tpCUicVyu83Kj5gben2B1RepkM)
+
 
 This should create a diagram showing that your Zero-Trust Framework includes and is linked to VeriDock, DocuTempl, DocuTan, and Lockerless, with an explanation of what each of these components does. 
 
@@ -134,3 +124,20 @@ We at Unleaky appreciate the trust our customers put in us.
 By entrusting us with your Digital Security, DevOps, and NetOps, you can focus on what you do best: running and expanding your business. 
 We'll take care of making sure it's secure and efficient.
 
+
+
+---
+
+
+```mermaid
+graph LR
+    A(Zero-Trust Framework) --> B(VeriDock)
+    A --> C(DocuTempl)
+    A --> D(DocuTan)
+    A --> E(Lockerless)
+    B -- Exchange Mechanism, Documentation Verification--> B1((Contracts, Transactions...))
+    C -- Ready to use Templates--> C1((Documentation))
+    D -- Hardware & Software Wallet--> D1((Private Key))
+    D -- Encryption-->D2((Secret TAN passwords))
+    E -- Trusted Single-Use Box--> E1((Encrypted Messages))
+```
