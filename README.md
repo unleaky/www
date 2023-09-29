@@ -18,8 +18,7 @@ Reliability can come from trustworthiness, transparency, performance history, ..
 
 Here's an example of a Mermaid diagram for the processes in "zero-trust framework":
 
-[![](https://mermaid.ink/img/pako:eNpVUcFqwzAM_RXhw0ghKWzHHAZtkzFYO0bbbTByEYmahiZ2kJ21ofTfp3jpIT7J7-k9PctXlZuCVKxKxvYI622mQc4i-CE20Z476-CFsaGz4dMMougZlsEXcZWY_DQbmz28CgTq9tS09QRP_nHUEzQN1mJAXJO1I7EUAtJLfkRdEmxoKCrbhDDoG9IOXWU0DMMPVe4vPs5jEKyMdoy5syHsGbWVUlg7n89no_lqMN8SFj04A50l8EnRkfXhxWQy5q5LBt0rcnFGJniAnTk4X35jXZPzDxTtB1e_4gVv1E-Uqc65b8eoyVMQ7ChncrBfvEOL1spWC3tXpIPCr5wK2FW6rCn6lKRLc_Erkzmjn_AbWRyWJGIVqoa4waqQb7wOVplyR2ooU7GUBfIpU5m-SR92zux6navYcUeh6tpCUicVyu83Kj5gben2B1RepkM?type=png)](https://mermaid.live/edit#pako:eNpVUcFqwzAM_RXhw0ghKWzHHAZtkzFYO0bbbTByEYmahiZ2kJ21ofTfp3jpIT7J7-k9PctXlZuCVKxKxvYI622mQc4i-CE20Z476-CFsaGz4dMMougZlsEXcZWY_DQbmz28CgTq9tS09QRP_nHUEzQN1mJAXJO1I7EUAtJLfkRdEmxoKCrbhDDoG9IOXWU0DMMPVe4vPs5jEKyMdoy5syHsGbWVUlg7n89no_lqMN8SFj04A50l8EnRkfXhxWQy5q5LBt0rcnFGJniAnTk4X35jXZPzDxTtB1e_4gVv1E-Uqc65b8eoyVMQ7ChncrBfvEOL1spWC3tXpIPCr5wK2FW6rCn6lKRLc_Erkzmjn_AbWRyWJGIVqoa4waqQb7wOVplyR2ooU7GUBfIpU5m-SR92zux6navYcUeh6tpCUicVyu83Kj5gben2B1RepkM)
-
+[![](https://mermaid.ink/img/pako:eNpVkUFrg0AQhf_KsIdiQAPt0UMhiZZCk1KibaF4GXRiJLors2sTCfnvHa056Gl8s9-bt7NXlZuCVKhKxvYI232mQb6V90NsgpQ76-CFsaGz4dMCguAZ1t4XcRWZ_LSYDo_yxhOpS6lpZ3L0L6OeqbG3FZ64JmunxloaEF_yI-qSYEdDUdnGh4FvSDt0ldEwzD5U-fgzpnn0vI3RjjF31oeUUVsppWuXy-ViMt8M5nvCogdnoLMEQ9AaHdkxu5jMxty5aOBekYszMsEDJObgxvIb65rceEFhP7j6FS94o35Gxjrnvp2iRk-el1DO5CBdvUOL1spSC3sn4oEYN04FJJUuawo-JenaXMaVyZzJT_o7WRyWJLDyVUPcYFXIK14Hq0y5IzWUqVDKAvmUqUzf5Bx2ziS9zlXouCNfdW0hqaMK5fEbFR6wtnT7A34qpdc?type=png)](https://mermaid.live/edit#pako:eNpVkUFrg0AQhf_KsIdiQAPt0UMhiZZCk1KibaF4GXRiJLors2sTCfnvHa056Gl8s9-bt7NXlZuCVKhKxvYI232mQb6V90NsgpQ76-CFsaGz4dMCguAZ1t4XcRWZ_LSYDo_yxhOpS6lpZ3L0L6OeqbG3FZ64JmunxloaEF_yI-qSYEdDUdnGh4FvSDt0ldEwzD5U-fgzpnn0vI3RjjF31oeUUVsppWuXy-ViMt8M5nvCogdnoLMEQ9AaHdkxu5jMxty5aOBekYszMsEDJObgxvIb65rceEFhP7j6FS94o35Gxjrnvp2iRk-el1DO5CBdvUOL1spSC3sn4oEYN04FJJUuawo-JenaXMaVyZzJT_o7WRyWJLDyVUPcYFXIK14Hq0y5IzWUqVDKAvmUqUzf5Bx2ziS9zlXouCNfdW0hqaMK5fEbFR6wtnT7A34qpdc)
 
 This should create a diagram showing that your Zero-Trust Framework includes and is linked to VeriDock, DocuTempl, DocuTan, and Lockerless, with an explanation of what each of these components does. 
 
@@ -163,7 +162,7 @@ We'll take care of making sure it's secure and efficient.
 ```mermaid
 graph LR
     A(Zero-Trust Framework) --> B(VeriDock)
-    A --> C(DocuTempl)
+    A --> C(DocuTemp)
     A --> D(DocuTan)
     A --> E(Lockerless)
     B -- Exchange Mechanism, Documentation Verification--> B1((Contracts, Transactions...))
