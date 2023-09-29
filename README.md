@@ -1,11 +1,12 @@
 # [Unleaky - Trusted Foundation](http://www.unleaky.com)
 
-A trusted foundation means a reliable and solid foundation (it could be a system, policy or organization) in which you have full confidence. It can be a reliable foundation on which a project, idea, relationship or business is established or built. Reliability can come from trustworthiness, transparency, performance history, etc.
+A trusted foundation means a reliable and solid foundation of organization, system, policy, in which you have full confidence. 
+It can be a reliable foundation on which a project, idea, relationship or business is established or built. 
+Reliability can come from trustworthiness, transparency, performance history, ...
 
-+ we offer the “Trusted Foundation” for your organization, team, infrastructure, network,…
++ we offer the “Trusted Foundation” for your organization and team
++ our "zero trust framework" is a trusted network and infrastructure
 + we outsource DevOps and NetOps services
-+ we offer a "trusted foundation" within our "zero trust framework" as a trusted network and infrastructure:
-
 
 ### Our "zero-trust framework"
 
