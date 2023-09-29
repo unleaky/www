@@ -61,7 +61,45 @@ Respect our clients' privacy and make their security our prime objective.
 Place our customers' satisfaction and security at the center of our every action and decision.
 
 
-## Offer
+# Offer
+
+## Subscription
+
+Certainly, here's a per-user subscription pricing model:
+
+
+**Trusted Foundation User Subscription** 
+
+Our goal is to ensure a reliable foundation for your project or business. With our "zero-trust framework", we offer a secure network and infrastructure for every user in your organization.
+
+- **Per User Subscription Price: $100 monthly**
+
+This subscription includes:
+
+#### VeriDock Access
+Exchange mechanism and a documentation verification algorithm for contracts, transactions, etc. 
+
+#### DocuTempl Access
+Ready to use templates for documentation.
+    
+#### DocuTan Access
+Private key hardware & software wallet with encryption and secret TAN passwords.
+
+#### Lockerless Access
+Trusted single-use box for encrypted messages.
+
+   
+- Individual access and support for our wide range DevOps and NetOps services.
+
+This per user subscription model ensures that each member of your team has access to our trusted foundation tools and services under a single, simple price scheme. 
+
+Note: We offer volume discounts for larger teams. Please contact us for more details.
+
+
+
+
+
+## services
 
 ### CDN Services (Content Delivery Network)
 - Basic CDN (100GB): PLN 150/month
