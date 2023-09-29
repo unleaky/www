@@ -1,4 +1,4 @@
-# [Unleaky - "Trusted Foundation"](http://www.unleaky.com)
+# [Unleaky - Trusted Foundation](http://www.unleaky.com)
 
 
 At Unleaky we offer "Trusted Foundation" for your organisation, team, infrastructer, network, ...
@@ -12,7 +12,7 @@ This can be the trustworthy base on which a project, idea, relationship, or busi
 The reliability can come from its credibility, transparency, performance history, etc.
 
 
-### our "zero-trust framework"
+### Our "zero-trust framework"
 
 + VeriDock - Exchange mechanism, documentation verification algorithm for contracts, transactions, ...
 + DocuTempl - ready to use in templates for documentation
