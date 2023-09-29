@@ -1,4 +1,24 @@
-# [Unleaky - "Trusted Network"](http://www.unleaky.com)
+# [Unleaky - "Trusted Foundation"](http://www.unleaky.com)
+
+
+At Unleaky we offer "Trusted Foundation" for your organisation, team, infrastructer, network, ...
+
++ we are outsourcing DevOps and NetOps services 
++ we offer "trusted foundation" through our "zero-trust framework" as Trusted Network & Infrastructure:
+
+
+Trusted foundation refers to a reliable and solid base (could be a system, principles or organization) that you have full confidence and trust in. 
+This can be the trustworthy base on which a project, idea, relationship, or business is established or built.
+The reliability can come from its credibility, transparency, performance history, etc.
+
+
+### our "zero-trust framework"
+
++ VeriDock - Exchange mechanism, documentation verification algorithm for contracts, transactions, ...
++ DocuTempl - ready to use in templates for documentation
++ DocuTan - Private key wallet with encryption and secret TAN passwords
++ Lockerless - trusted single-use box for encrypted messages
+
 
 
 ## Vision: 
