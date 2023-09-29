@@ -16,13 +16,9 @@ Reliability can come from trustworthiness, transparency, performance history, ..
 + [Lockerless](http://www.Lockerless.com) - trusted single-use box for encrypted messages
 
 
-Here's an example of a Mermaid diagram for the processes in "zero-trust framework":
+Example of diagram for the processes in "zero-trust framework" includes and is linked to VeriDock, DocuTempl, DocuTan, and Lockerless, with an explanation of what each of these components does:
 
 [![](https://mermaid.ink/img/pako:eNpVkUFrg0AQhf_KsIdiQAPt0UMhiZZCk1KibaF4GXRiJLors2sTCfnvHa056Gl8s9-bt7NXlZuCVKhKxvYI232mQb6V90NsgpQ76-CFsaGz4dMCguAZ1t4XcRWZ_LSYDo_yxhOpS6lpZ3L0L6OeqbG3FZ64JmunxloaEF_yI-qSYEdDUdnGh4FvSDt0ldEwzD5U-fgzpnn0vI3RjjF31oeUUVsppWuXy-ViMt8M5nvCogdnoLMEQ9AaHdkxu5jMxty5aOBekYszMsEDJObgxvIb65rceEFhP7j6FS94o35Gxjrnvp2iRk-el1DO5CBdvUOL1spSC3sn4oEYN04FJJUuawo-JenaXMaVyZzJT_o7WRyWJLDyVUPcYFXIK14Hq0y5IzWUqVDKAvmUqUzf5Bx2ziS9zlXouCNfdW0hqaMK5fEbFR6wtnT7A34qpdc?type=png)](https://mermaid.live/edit#pako:eNpVkUFrg0AQhf_KsIdiQAPt0UMhiZZCk1KibaF4GXRiJLors2sTCfnvHa056Gl8s9-bt7NXlZuCVKhKxvYI232mQb6V90NsgpQ76-CFsaGz4dMCguAZ1t4XcRWZ_LSYDo_yxhOpS6lpZ3L0L6OeqbG3FZ64JmunxloaEF_yI-qSYEdDUdnGh4FvSDt0ldEwzD5U-fgzpnn0vI3RjjF31oeUUVsppWuXy-ViMt8M5nvCogdnoLMEQ9AaHdkxu5jMxty5aOBekYszMsEDJObgxvIb65rceEFhP7j6FS94o35Gxjrnvp2iRk-el1DO5CBdvUOL1spSC3sn4oEYN04FJJUuawo-JenaXMaVyZzJT_o7WRyWJLDyVUPcYFXIK14Hq0y5IzWUqVDKAvmUqUzf5Bx2ziS9zlXouCNfdW0hqaMK5fEbFR6wtnT7A34qpdc)
-
-This should create a diagram showing that your Zero-Trust Framework includes and is linked to VeriDock, DocuTempl, DocuTan, and Lockerless, with an explanation of what each of these components does. 
-
-Remember, you need to render this script in a Mermaid-compatible viewer to see the actual diagram because formatted text editors like this lack Mermaid rendering capabilities.
 
 
 ## Vision: 
